@@ -1,2 +1,3 @@
 ﻿This is my GitHub tutorial! 
-This is my secomd line. 
+This is my secomd line of text in my project. 
+This is a third line of text. 
